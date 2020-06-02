@@ -1,1 +1,1 @@
-git fetch README.md
+git merge origin/master
