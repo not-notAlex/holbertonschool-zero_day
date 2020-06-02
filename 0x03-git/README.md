@@ -1,1 +1,1 @@
-Results of the git project
+These are the results of the git project
