@@ -1,1 +1,1 @@
-echo > up_to_date
+git clone https://github.com/not-notAlex/holbertonschool-zero_day.git
